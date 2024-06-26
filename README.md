@@ -4,3 +4,5 @@ new text
 
 fix2
 
+some very great text
+fix3
